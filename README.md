@@ -13,6 +13,7 @@ Functionality:
 4. update a review: PUT /api/reviews/id  //body data: username,content
 5. delete a review: DELETE /api/reviews/id 
 6. sign up a user: POST /api/signup	//body data: username,password
+* I add the extra authentication for the delete operation, need to include the 	user and password
 
 Data Models:
 1.review
