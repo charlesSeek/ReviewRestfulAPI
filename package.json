@@ -1,0 +1,29 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "description": "movie reviews restful api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "node.js"
+  ],
+  "author": "shuchengc",
+  "license": "ISC",
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2",
+    "lodash": "^4.14.0",
+    "mongoose": "^4.5.6",
+    "morgan": "^1.7.0"
+  }
+}
