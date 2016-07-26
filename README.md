@@ -34,7 +34,7 @@ Folds:
 Implementation:
 1. local mongodb
 2. $npm install
-3. $node fakeReviewsData  // insert some fake reviews into the mongodb
+3. $node fakeReviewsData.js  // insert some fake reviews into the mongodb
 4. $grunt
 
 
